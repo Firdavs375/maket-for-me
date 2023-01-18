@@ -1,6 +1,10 @@
 h1{
-    color: orangered;
+    color: rgb(75, 75, 75);
     text-align: center;
+}
+hr{
+    color: red;
+    height: 2px;
 }
 .font1{
     font-family: 'Calligraffitti', cursive;
